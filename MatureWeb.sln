@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.EntityModels", "Northwind.EntityModels\Northwind.EntityModels.csproj", "{1E2F40DB-396C-400E-8FE9-9CC40D363996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DataContext", "Northwind.DataContext\Northwind.DataContext.csproj", "{6795923B-5B0E-4C01-81CE-6FB6C92396B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1E2F40DB-396C-400E-8FE9-9CC40D363996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E2F40DB-396C-400E-8FE9-9CC40D363996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E2F40DB-396C-400E-8FE9-9CC40D363996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6795923B-5B0E-4C01-81CE-6FB6C92396B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6795923B-5B0E-4C01-81CE-6FB6C92396B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6795923B-5B0E-4C01-81CE-6FB6C92396B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6795923B-5B0E-4C01-81CE-6FB6C92396B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
